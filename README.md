@@ -9,7 +9,9 @@ go mod tidy
 ```
 
 ## Menjalankan Aplikasi
-```go run main.go```
+```
+go run main.go
+```
 
 ## Link URL
 `http://localhost:8080`
